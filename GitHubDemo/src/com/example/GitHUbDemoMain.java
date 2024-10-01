@@ -7,6 +7,11 @@ public class GitHUbDemoMain {
 		Persona persona1 = null;
 		
 		Persona persona2 = null;
+		
+		persona2 = new Persona();
+		
+		Genero genero;
+
 	}
 
 }
